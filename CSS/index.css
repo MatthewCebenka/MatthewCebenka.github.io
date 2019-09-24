@@ -1,0 +1,16 @@
+nav div img {
+    margin-top: 12px;
+    margin-left: 15px;
+    ;
+}
+
+@media screen and (max-width: 600px) {
+    nav div img {
+        margin-bottom: 15px;
+    }
+}
+
+.section-1-btn button {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
